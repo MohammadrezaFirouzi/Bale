@@ -5,9 +5,11 @@
 </p>
 
 <div align='center'>
-    <br>
+    
     •
-    <a href='https://rubika.ir/pyrubi_documents'>Documents</a>
+    <a href='https://ble.ir/join/DC45MKuad3'>Documents</a>
+
+    <br>
     
 </div>
 # کتابخانه پیامرسان بله PHP 😅
