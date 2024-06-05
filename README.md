@@ -4,10 +4,7 @@
 <br />
 </p>
 
-<div align='center'>
-    <a href='https://web.bale.ai/@balephp'>Documents</a>
-    
-</div>
+
 ## شروع استفاده از کتابخونه 🎊 :
 ```php
 <?php 
