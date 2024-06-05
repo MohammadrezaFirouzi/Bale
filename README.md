@@ -4,8 +4,16 @@
 <br />
 </p>
 
-<a href='https://rubika.ir/pyrubi_documents'>Documents</a>
-
+<div align='center'>
+    <img style='border-radius: 10px' src='https://iili.io/HIjPRS9.jpg' alt='pyrubi image' width='320' height='140'>
+    <br>
+    <br>
+    <b>Fast & powerfull Bale API library</b>
+    <br>
+    <a href='https://github.com/AliGanji1/pyrubi'>GitHub</a>
+    •
+    
+</div>
 # کتابخانه پیامرسان بله PHP 😅
 <br/>
 
