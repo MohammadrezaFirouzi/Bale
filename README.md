@@ -6,9 +6,6 @@
 
 <div align='center'>
     <br>
-    <br>
-    <b>Fast Bale API library</b>
-    <br>
     •
     <a href='https://rubika.ir/pyrubi_documents'>Documents</a>
     
