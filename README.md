@@ -5,7 +5,7 @@
 </p>
 
 <div align='center'>
-    <a href='https://ble.ir/join/DC45MKuad3'>Documents</a>
+    <a href='https://web.bale.ai/@balephp'>Documents</a>
     
 </div>
 # کتابخانه پیامرسان بله PHP 😅
