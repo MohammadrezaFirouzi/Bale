@@ -9,8 +9,8 @@
     <br>
     <b>Fast & powerfull Bale API library</b>
     <br>
-    <a href='https://github.com/AliGanji1/pyrubi'>GitHub</a>
     •
+    <a href='https://rubika.ir/pyrubi_documents'>Documents</a>
     
 </div>
 # کتابخانه پیامرسان بله PHP 😅
