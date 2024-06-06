@@ -109,14 +109,14 @@ class BaleBot
         return $this->http->execute("sendContact", ["chat_id" => $chatid, "phone_number" => $phone_number, "first_name" => $first_name, "last_name" => $last_name, "reply_to_message_id" => $reply_to_message_id]);
     }
 
-    public function banChatMember($chatid, $video, $caption = null, $reply_to_message_id = null)
+    public function banChatMember($chatid, $user_id, $caption = null, $reply_to_message_id = null)
     {
-        return $this->http->execute("banChatMember", ["chat_id" => $chatid, "user_id" => $video]);
+        return $this->http->execute("banChatMember", ["chat_id" => $chatid, "user_id" => $user_id]);
     }
 
-    public function unbanChatMember($chatid, $video, $only_if_banned)
+    public function unbanChatMember($chatid, $user_id, $only_if_banned)
     {
-        return $this->http->execute("unbanChatMember", ["chat_id" => $chatid, "user_id" => $video, "only_if_banned" => $only_if_banned]);
+        return $this->http->execute("unbanChatMember", ["chat_id" => $chatid, "user_id" => $user_id, "only_if_banned" => $only_if_banned]);
     }
 
     public function promoteChatMember($chatid, $user_id)
